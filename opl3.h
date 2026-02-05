@@ -44,7 +44,7 @@ extern "C" {
 #endif
 
 #define OPL_WRITEBUF_SIZE   1024
-#define OPL_WRITEBUF_DELAY  2
+#define OPL_WRITEBUF_DELAY  1
 
 typedef struct _opl3_slot opl3_slot;
 typedef struct _opl3_channel opl3_channel;
